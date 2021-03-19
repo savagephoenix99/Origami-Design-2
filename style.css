@@ -1,0 +1,13 @@
+.text{
+    background-color:darkorange;
+}
+
+
+.text{
+    text-align: center;
+}
+
+.items{
+    display:flex;
+    background-color: rgb(235, 235, 235);
+}
